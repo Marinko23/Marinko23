@@ -6,4 +6,4 @@
 -->
 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milan-marinkovi%C4%87-843a36271/), or [marinkovic.milan1102@gmail.com]mailto:marinkovic.milan1102@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milan-marinkovi%C4%87-843a36271/), or [marinkovic.milan1102@gmail.com](mailto:marinkovic.milan1102@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
